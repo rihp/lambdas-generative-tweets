@@ -12,5 +12,5 @@ Requirements:
 
 ![image](https://user-images.githubusercontent.com/12145726/219856041-f20d1c73-e332-4bb7-a6c5-b8da411de3fe.png)
 
-Watch the full tutorial video for a step by step process to  
+Watch the full tutorial video for a step by step process on how to build, modify and deploy the bot.
 - https://youtu.be/_husBmvv0j0
