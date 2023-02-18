@@ -1,7 +1,7 @@
 # Generative Tweets
 This sample portfolio project uses ChatGPT to scaffold an app that leverages OpenAI, AWS Lambdas and the Twitter API to schedule generative tweets about any topic you desire. 
 
-The cost of running this bot is a few pennies for a couple of runs per day.
+The cost of running this bot is a few pennies a month for a couple of runs per day.
 
 Recommend using the `max_tokens` parameter with a value of 50 tokens or less to have tweets match the 280 character limit.
 
